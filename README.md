@@ -2,7 +2,7 @@
 
 Addon for the backbone.js, allows you to create a model with composite keys, and a collection of them.
 
-**Attention!** I use this mechanism for models with separate endpoints for CRUD operations (e.g. don't use model.id in this operations)
+**Attention!** I use this mechanism in models with separate endpoints for CRUD operations (e.g. don't use model.id in this operations)
 
 Dependencies: underscore.js, backbone.js
 
